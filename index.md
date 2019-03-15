@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to kondoyuko Pages
 
-You can use the [editor on GitHub](https://github.com/kondoyuko/sample-pages/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ここはkondoyukoのポートフォリオサイトです。GitHubにリポジトリを作成し、Jekyllを使ってマークダウンファイルがビルドされて静的サイトが生成されます。
 
 ### Markdown
 
